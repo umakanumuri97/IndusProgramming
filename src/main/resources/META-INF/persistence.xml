@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_2.xsd"
+	version="2.2">
+	<persistence-unit name="test">
+
+		<class>com.indus.training.persist.entity.Customer</class>
+		<class>com.indus.training.persist.entity.Orders</class>
+		
+		<properties>
+			<!-- Database connection settings -->
+			<property name="hibernate.connection.driver_class"
+				value="com.mysql.cj.jdbc.Driver" />
+			<property name="javax.persistence.jdbc.url"
+				value="jdbc:mysql://127.0.0.1:3306/Test_1" />
+			<property name="javax.persistence.jdbc.user" value="root" />
+			<property name="javax.persistence.jdbc.password"
+				value="Taehyung@3031" />
+
+
+			<!-- SQL dialect -->
+			<property name="dialect" value="org.hibernate.dialect.MySQL5Dialect" />
+
+			<!-- Echo all executed SQL to console -->
+			<property name="hibernate.show_sql" value="true" />
+			<property name="hibernate.format_sql" value="true" />
+			<property name="hibernate.highlight_sql" value="true" />
+		</properties>
+	</persistence-unit>
+
+</persistence>
