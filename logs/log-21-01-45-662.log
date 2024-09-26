@@ -1,0 +1,8 @@
+2024-09-25 20:59:38,929 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-09-25 20:59:39,839 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer inserted successfully with id 1
+2024-09-25 20:59:39,852 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order inserted successfully with id 101
+2024-09-25 20:59:39,871 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Error: 1062, SQLState: 23000
+2024-09-25 20:59:39,871 ERROR o.h.e.j.s.SqlExceptionHelper [main] Duplicate entry '1' for key 'customer.PRIMARY'
+2024-09-25 20:59:39,872 ERROR o.h.i.ExceptionMapperStandardImpl [main] HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2024-09-25 20:59:39,882 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with ID 1 deleted successfully
+2024-09-25 20:59:39,886 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order with provided Id 101 not found

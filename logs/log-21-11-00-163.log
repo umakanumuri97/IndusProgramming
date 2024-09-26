@@ -1,0 +1,3 @@
+2024-09-25 21:10:59,280 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-09-25 21:11:00,118 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer inserted successfully with id 1
+2024-09-25 21:11:00,136 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order inserted successfully with id 101

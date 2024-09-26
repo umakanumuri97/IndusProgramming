@@ -1,0 +1,4 @@
+2024-09-25 21:15:02,559 INFO o.h.c.Environment [main] HHH000206: hibernate.properties not found
+2024-09-25 21:15:02,700 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-09-25 21:15:03,028 WARN o.h.o.c.pooling [main] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-09-25 21:15:03,034 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/programmingtestone]

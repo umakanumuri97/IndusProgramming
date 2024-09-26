@@ -1,0 +1,6 @@
+2024-09-25 21:19:25,254 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer inserted successfully with id 1
+2024-09-25 21:19:25,852 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order inserted successfully with id 101
+2024-09-25 21:19:59,517 ERROR o.h.i.ExceptionMapperStandardImpl [main] HHH000346: Error during managed flush [org.hibernate.HibernateException: identifier of an instance of com.indus.training.persist.entity.Order was altered from 101 to null]
+2024-09-25 21:22:18,629 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: myPersistenceUnit
+	...]

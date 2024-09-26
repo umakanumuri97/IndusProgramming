@@ -1,0 +1,7 @@
+2024-09-25 20:51:51,944 WARN o.h.e.j.e.i.JdbcEnvironmentInitiator [main] HHH000342: Could not obtain connection to query metadata : null
+2024-09-25 20:51:52,360 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-09-25 20:51:52,965 INFO o.h.e.j.e.i.LobCreatorBuilderImpl [main] HHH000422: Disabling contextual LOB creation as connection was null
+2024-09-25 20:51:53,002 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Error: 0, SQLState: 08S01
+2024-09-25 20:51:53,002 ERROR o.h.e.j.s.SqlExceptionHelper [main] Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.

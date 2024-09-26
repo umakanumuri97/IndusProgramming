@@ -1,0 +1,5 @@
+2024-09-25 21:28:24,810 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order inserted successfully with id 101
+2024-09-25 21:28:24,819 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order with ID 101 fetched successfully
+2024-09-25 21:28:24,825 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order with ID 101 deleted successfully
+2024-09-25 21:28:24,837 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Error: 1062, SQLState: 23000
+2024-09-25 21:28:24,837 ERROR o.h.e.j.s.SqlExceptionHelper [main] Duplicate entry '1' for key 'customer.PRIMARY'

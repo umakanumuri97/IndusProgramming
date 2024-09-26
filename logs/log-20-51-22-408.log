@@ -1,0 +1,5 @@
+2024-09-25 20:50:29,744 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {user=root, password=****}
+2024-09-25 20:50:29,747 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2024-09-25 20:50:29,750 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2024-09-25 20:50:30,271 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-09-25 20:50:30,992 ERROR o.h.i.ExceptionMapperStandardImpl [main] HHH000346: Error during managed flush [org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.indus.training.persist.entity.Order.customer -> com.indus.training.persist.entity.Customer]

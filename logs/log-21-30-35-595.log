@@ -1,0 +1,4 @@
+2024-09-25 21:30:35,177 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2024-09-25 21:30:35,185 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2024-09-25 21:30:35,219 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-09-25 21:30:35,588 WARN o.h.o.c.pooling [main] HHH10001002: Using Hibernate built-in connection pool (not for production use!)

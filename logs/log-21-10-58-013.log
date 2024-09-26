@@ -1,0 +1,6 @@
+2024-09-25 21:09:47,912 ERROR o.h.i.ExceptionMapperStandardImpl [main] HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2024-09-25 21:10:57,800 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: myPersistenceUnit
+	...]
+2024-09-25 21:10:57,868 INFO o.h.Version [main] HHH000412: Hibernate Core {5.3.7.Final}
+2024-09-25 21:10:57,870 INFO o.h.c.Environment [main] HHH000206: hibernate.properties not found

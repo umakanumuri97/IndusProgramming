@@ -1,0 +1,7 @@
+2024-09-25 20:38:28,755 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer inserted successfully with id 1
+2024-09-25 20:38:28,766 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with ID 1 deleted successfully
+2024-09-25 20:38:28,770 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with provided Id 1 not found
+2024-09-25 20:50:29,198 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: myPersistenceUnit
+	...]
+2024-09-25 20:50:29,251 INFO o.h.Version [main] HHH000412: Hibernate Core {5.3.7.Final}

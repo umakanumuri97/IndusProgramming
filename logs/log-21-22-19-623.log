@@ -1,0 +1,6 @@
+2024-09-25 21:22:19,237 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {user=root, password=****}
+2024-09-25 21:22:19,248 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2024-09-25 21:22:19,251 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2024-09-25 21:22:19,617 WARN o.h.o.c.pooling [main] HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2024-09-25 21:22:19,622 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/programmingtestone]
+2024-09-25 21:22:19,623 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {user=root, password=****}

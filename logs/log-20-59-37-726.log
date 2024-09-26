@@ -1,0 +1,4 @@
+2024-09-25 20:55:30,043 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-09-25 20:55:30,415 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-09-25 20:55:31,005 ERROR o.h.i.ExceptionMapperStandardImpl [main] HHH000346: Error during managed flush [org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.indus.training.persist.entity.Order.customer -> com.indus.training.persist.entity.Customer]
+2024-09-25 20:55:31,319 ERROR o.h.i.ExceptionMapperStandardImpl [main] HHH000346: Error during managed flush [org.hibernate.TransientPropertyValueException: object references an unsaved transient instance - save the transient instance before flushing : com.indus.training.persist.entity.Order.customer -> com.indus.training.persist.entity.Customer]

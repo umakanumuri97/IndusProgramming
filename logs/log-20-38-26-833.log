@@ -1,0 +1,5 @@
+2024-09-25 20:37:38,160 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer inserted successfully with id 1
+2024-09-25 20:37:38,172 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with ID 1 deleted successfully
+2024-09-25 20:37:38,178 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer inserted successfully with id 1
+2024-09-25 20:37:38,187 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with ID 1 deleted successfully
+2024-09-25 20:37:38,190 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with provided Id 1 not found

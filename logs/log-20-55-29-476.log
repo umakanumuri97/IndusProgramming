@@ -1,0 +1,3 @@
+2024-09-25 20:55:29,256 INFO o.h.c.Environment [main] HHH000206: hibernate.properties not found
+2024-09-25 20:55:29,418 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-09-25 20:55:29,470 WARN o.h.o.c.pooling [main] HHH10001002: Using Hibernate built-in connection pool (not for production use!)

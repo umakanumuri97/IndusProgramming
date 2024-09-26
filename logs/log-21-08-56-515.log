@@ -1,0 +1,7 @@
+2024-09-25 21:08:34,326 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order inserted successfully with id 101
+2024-09-25 21:08:34,342 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with ID 1 deleted successfully
+2024-09-25 21:08:34,344 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order with provided Id 101 not found
+2024-09-25 21:08:56,459 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: myPersistenceUnit
+	...]
+2024-09-25 21:08:56,513 INFO o.h.Version [main] HHH000412: Hibernate Core {5.3.7.Final}

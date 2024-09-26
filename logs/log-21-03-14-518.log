@@ -1,0 +1,7 @@
+2024-09-25 21:03:13,906 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: myPersistenceUnit
+	...]
+2024-09-25 21:03:13,972 INFO o.h.Version [main] HHH000412: Hibernate Core {5.3.7.Final}
+2024-09-25 21:03:13,973 INFO o.h.c.Environment [main] HHH000206: hibernate.properties not found
+2024-09-25 21:03:14,104 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-09-25 21:03:14,512 WARN o.h.o.c.pooling [main] HHH10001002: Using Hibernate built-in connection pool (not for production use!)

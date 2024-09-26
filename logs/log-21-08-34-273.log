@@ -1,0 +1,5 @@
+2024-09-25 21:08:33,391 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-09-25 21:08:34,197 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer inserted successfully with id 1
+2024-09-25 21:08:34,215 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order inserted successfully with id 101
+2024-09-25 21:08:34,246 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with ID 1 deleted successfully
+2024-09-25 21:08:34,249 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order with provided Id 101 not found

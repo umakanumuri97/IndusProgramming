@@ -1,0 +1,10 @@
+2024-09-25 20:55:28,882 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: myPersistenceUnit
+	...]
+2024-09-25 20:55:28,970 INFO o.h.Version [main] HHH000412: Hibernate Core {5.3.7.Final}
+2024-09-25 20:55:28,973 INFO o.h.c.Environment [main] HHH000206: hibernate.properties not found
+2024-09-25 20:55:29,112 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2024-09-25 20:55:29,194 INFO o.h.j.i.u.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [
+	name: myPersistenceUnit
+	...]
+2024-09-25 20:55:29,255 INFO o.h.Version [main] HHH000412: Hibernate Core {5.3.7.Final}

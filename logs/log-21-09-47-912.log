@@ -1,0 +1,4 @@
+2024-09-25 21:09:47,897 ERROR o.h.e.j.s.SqlExceptionHelper [main] Duplicate entry '1' for key 'customer.PRIMARY'
+2024-09-25 21:09:47,902 ERROR o.h.i.ExceptionMapperStandardImpl [main] HHH000346: Error during managed flush [org.hibernate.exception.ConstraintViolationException: could not execute statement]
+2024-09-25 21:09:47,911 WARN o.h.e.j.s.SqlExceptionHelper [main] SQL Error: 1062, SQLState: 23000
+2024-09-25 21:09:47,912 ERROR o.h.e.j.s.SqlExceptionHelper [main] Duplicate entry '1' for key 'customer.PRIMARY'

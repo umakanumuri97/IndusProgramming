@@ -1,0 +1,5 @@
+2024-09-25 21:11:00,163 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order with ID 101 deleted successfully
+2024-09-25 21:11:00,183 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with ID 1 deleted successfully
+2024-09-25 21:11:00,189 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer inserted successfully with id 1
+2024-09-25 21:11:00,195 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order inserted successfully with id 101
+2024-09-25 21:11:00,204 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with ID 1 deleted successfully

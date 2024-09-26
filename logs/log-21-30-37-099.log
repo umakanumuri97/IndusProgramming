@@ -1,0 +1,9 @@
+2024-09-25 21:30:36,765 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer inserted successfully with id 1
+2024-09-25 21:30:36,774 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order inserted successfully with id 101
+2024-09-25 21:30:36,784 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order with ID 101 updated successfully
+2024-09-25 21:30:36,794 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with ID 1 deleted successfully
+2024-09-25 21:30:36,797 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order with provided Id 101 not found
+2024-09-25 21:30:37,035 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer inserted successfully with id 1
+2024-09-25 21:30:37,051 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order inserted successfully with id 101
+2024-09-25 21:30:37,077 INFO c.i.t.p.d.i.OrderDaoImpl [main] Order with ID 101 deleted successfully
+2024-09-25 21:30:37,092 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with ID 1 deleted successfully

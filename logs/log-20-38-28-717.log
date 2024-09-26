@@ -1,0 +1,5 @@
+2024-09-25 20:38:27,800 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL8Dialect
+2024-09-25 20:38:28,652 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer inserted successfully with id 1
+2024-09-25 20:38:28,686 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with ID 1 updated successfully
+2024-09-25 20:38:28,691 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with ID 1 fetched successfully
+2024-09-25 20:38:28,710 INFO c.i.t.p.d.i.CustomerDaoImpl [main] Customer with ID 1 deleted successfully
